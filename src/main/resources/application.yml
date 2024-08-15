@@ -1,0 +1,12 @@
+#spring:
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/products
+#    username: root
+#    password: Osama@1234
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#      properties.hibernate.dialect: org.hibernate.dialect.MySQLDialect
